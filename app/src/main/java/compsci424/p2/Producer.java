@@ -15,7 +15,7 @@ public class Producer {
      * initialization that is needed. If you need more constructors
      * than this, feel free to add other constructors.
      */
-    public Version1() {
+    public Producer() {
 
     }
 
