@@ -55,5 +55,7 @@ public class Program2 {
 
 
         // 8. Do any necessary "cleanup" work.
+
+        System.out.println("Program is finished.");
     }
 }
